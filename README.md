@@ -1,2 +1,2 @@
 # Wine-Quality-Prediction
-The project contains exploratory data analysis and different classification and regression models applied to the popular Red and White Wines Dataset.  The jupyter notebooks are ready to run.
+Worked on red and white wines dataset to determine the physiochem- ical properties of a good wine and predict wine quality. Performed exploratory data analysis. Spot checked multiple regression models and used the concept of stacked regressors to build the final model. Evaluated it on the metric of root mean squared error (RMSE) and obtained a value of 0.08 on the test data.
